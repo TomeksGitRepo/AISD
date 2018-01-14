@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\this.pc\documents\visual studio 2017\projects\zadanie 3\zadanie 3\main.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\this.pc\documents\visual studio 2017\projects\zadanie 3\zadanie 3\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\this.pc\documents\visual studio 2017\projects\zadanie 3\zadanie 3\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\this.pc\documents\visual studio 2017\projects\zadanie 3\zadanie 3\main.cpp(56): warning C4018: '>=': signed/unsigned mismatch
+  Zadanie 3.vcxproj -> C:\Users\This.pc\documents\visual studio 2017\Projects\Zadanie 3\Debug\Zadanie 3.exe
+  Zadanie 3.vcxproj -> C:\Users\This.pc\documents\visual studio 2017\Projects\Zadanie 3\Debug\Zadanie 3.pdb (Partial PDB)
